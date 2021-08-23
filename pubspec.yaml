@@ -29,8 +29,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image_picker:
-  image_cropper: 
+  image_picker: 
   tflite: 
   lottie: 
 
